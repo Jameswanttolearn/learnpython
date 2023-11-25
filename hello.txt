@@ -15,5 +15,7 @@ hello! Git
 hello! Git
 hello! Git
 hello! Git
+<<<<<<< HEAD
 it's first commited file master test
-it's second commited file
+it's second commited file hot-fix test
+>>>>>>> hot-fix

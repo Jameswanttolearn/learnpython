@@ -18,3 +18,5 @@ hello! Git
 it's first commited file master test
 it's second commited file hot-fix test
 单独在master提交
+单独在hot-fix提交
+合并后提交

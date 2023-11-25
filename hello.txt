@@ -17,3 +17,4 @@ hello! Git
 hello! Git
 it's first commited file master test
 it's second commited file hot-fix test
+单独在master提交

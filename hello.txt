@@ -15,5 +15,5 @@ hello! Git
 hello! Git
 hello! Git
 hello! Git
-it's first commited file
+it's first commited
 it's second commited file hot-fix test
